@@ -10,6 +10,7 @@ cd tooling
 # V2GInjector git clone
 git clone https://github.com/FlUxIuS/V2GInjector
 # Dependency Installation
+sudo apt install python3.11-venv
 python -m venv V2GInjector
 source V2GInjector/bin/activate
 pip install -r requirments
