@@ -4,9 +4,6 @@
 sudo apt install plc-utils
 sudo apt install plc-utils-extra
 sudo apt install plc-utils-doc
-# Directory creation
-mkdir tooling
-cd tooling
 # V2GInjector git clone
 git clone https://github.com/FlUxIuS/V2GInjector
 # Dependency Installation
