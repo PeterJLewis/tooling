@@ -20,7 +20,7 @@ git submodule update --init --recursive
 pip uninstall scapy
 pip install "scapy==2.4.4"
 # pip2 Installation
-curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py
+curl https://bootstrap.pypa.io/pip/2.7/get-pip.py -o get-pip.py
 python2 get-pip.py
 # Scapy for python2
 pip2 install "scapy==2.4.4"
