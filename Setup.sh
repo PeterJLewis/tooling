@@ -13,7 +13,7 @@ git clone https://github.com/FlUxIuS/V2GInjector
 sudo apt install python3.11-venv
 python -m venv V2GInjector
 source V2GInjector/bin/activate
-pip install -r requirments
+pip install -r requirments.txt
 cd V2GInjector
 git submodule update --init --recursive
 # Scapy Downgrade
