@@ -1,4 +1,5 @@
 #! /bin/bash
+# For Kali
 # plc-utils installation
 sudo apt install plc-utils
 sudo apt install plc-utils-extra
