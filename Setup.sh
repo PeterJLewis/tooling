@@ -1,4 +1,8 @@
 #! /bin/bash
+# plc-utils installation
+sudo apt install plc-utils
+sudo apt install plc-utils-extra
+sudo apt install plc-utils-doc
 # Directory creation
 mkdir tooling
 cd tooling
